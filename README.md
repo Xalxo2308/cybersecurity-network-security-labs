@@ -1,2 +1,2 @@
 # cybersecurity-network-security-labs
-Your main cybersecurity portfolio: Wireshark DNS analysis ARP poisoning ICMP attacks TCP RST/session hijacking SYN flood analysis Snort IDS Linux iptables
+Hands-on cybersecurity and network security laboratory portfolio covering Wireshark, DNS security, network attack analysis, Snort IDS and Linux iptables firewall configuration.
